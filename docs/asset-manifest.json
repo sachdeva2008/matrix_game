@@ -1,13 +1,13 @@
 {
-  "main.css": "matrix_game/static/css/main.abbadc6f.chunk.css",
-  "main.js": "matrix_game/static/js/main.642ff5f4.chunk.js",
-  "main.js.map": "matrix_game/static/js/main.642ff5f4.chunk.js.map",
-  "runtime~main.js": "matrix_game/static/js/runtime~main.797f21bf.js",
-  "runtime~main.js.map": "matrix_game/static/js/runtime~main.797f21bf.js.map",
-  "static/js/2.e7ef50d8.chunk.js": "matrix_game/static/js/2.e7ef50d8.chunk.js",
-  "static/js/2.e7ef50d8.chunk.js.map": "matrix_game/static/js/2.e7ef50d8.chunk.js.map",
-  "index.html": "matrix_game/index.html",
-  "precache-manifest.5f582f126fd902603da680d0372dc3cb.js": "matrix_game/precache-manifest.5f582f126fd902603da680d0372dc3cb.js",
-  "service-worker.js": "matrix_game/service-worker.js",
-  "static/css/main.abbadc6f.chunk.css.map": "matrix_game/static/css/main.abbadc6f.chunk.css.map"
+  "main.css": "/matrix_game/static/css/main.abbadc6f.chunk.css",
+  "main.js": "/matrix_game/static/js/main.d2bbf611.chunk.js",
+  "main.js.map": "/matrix_game/static/js/main.d2bbf611.chunk.js.map",
+  "runtime~main.js": "/matrix_game/static/js/runtime~main.87260563.js",
+  "runtime~main.js.map": "/matrix_game/static/js/runtime~main.87260563.js.map",
+  "static/js/2.e7ef50d8.chunk.js": "/matrix_game/static/js/2.e7ef50d8.chunk.js",
+  "static/js/2.e7ef50d8.chunk.js.map": "/matrix_game/static/js/2.e7ef50d8.chunk.js.map",
+  "index.html": "/matrix_game/index.html",
+  "precache-manifest.5f2ef0a168bf7af8c1ee60866b98c62d.js": "/matrix_game/precache-manifest.5f2ef0a168bf7af8c1ee60866b98c62d.js",
+  "service-worker.js": "/matrix_game/service-worker.js",
+  "static/css/main.abbadc6f.chunk.css.map": "/matrix_game/static/css/main.abbadc6f.chunk.css.map"
 }

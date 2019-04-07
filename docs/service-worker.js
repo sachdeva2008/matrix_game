@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "matrix_game/precache-manifest.5f582f126fd902603da680d0372dc3cb.js"
+  "/matrix_game/precache-manifest.5f2ef0a168bf7af8c1ee60866b98c62d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("matrix_game/index.html", {
+workbox.routing.registerNavigationRoute("/matrix_game/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
